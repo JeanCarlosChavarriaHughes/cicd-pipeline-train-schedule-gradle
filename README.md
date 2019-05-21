@@ -14,5 +14,6 @@ Then, you can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
+## Build Status [![Build Status](http://imagineing.ddns.net:8090/buildStatus/icon?job=cicd-pipeline-train-schedule-gradle)](http://imagineing.ddns.net:8090/job/cicd-pipeline-train-schedule-gradle/)
+
 Jenkins: http://imagineing.ddns.net:8090/job/cicd-pipeline-train-schedule-gradle/ 
-[![Build Status](http://imagineing.ddns.net:8090/buildStatus/icon?job=cicd-pipeline-train-schedule-gradle)](http://imagineing.ddns.net:8090/job/cicd-pipeline-train-schedule-gradle/)
